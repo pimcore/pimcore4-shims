@@ -2,7 +2,6 @@
   "name": "pimcore/pimcore4-shims",
   "license": "GPL-3.0",
   "require": {
-    "pimcore/core-version": ">=5",
     "zendframework/zendframework1": "~1.12"
   },
   "autoload": {
